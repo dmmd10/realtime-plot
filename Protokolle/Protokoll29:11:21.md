@@ -24,5 +24,16 @@ Aktuelle Fragen:
 - Was bedeutet nanos, wie einbeziehen? -> Können weggelassen werden
 
 
-
 Protokollant: Sebastian Herrmann
+
+Ergänzung:
+Dashbord aus 3 Komponenten:
+- man muss sich autorisieren können/Login
+  - privilegiertes Admin --> individuell Bsp. Farben der Kurven ändern können
+- Chart-Komponente
+- ein Config-Teil
+
+Alles was vom Prof. zugeschickt wird:
+- Corporate Design(bestimmte Farben sind vorhanden, Logo)
+- Leitfaden für die Doku. (50 Seiten)
+- ein Termin mit dem Kunden (in 14 Tagen)
